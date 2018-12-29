@@ -5,10 +5,7 @@ import com.soft1841.sm.entity.VIP;
 import java.sql.SQLException;
 import java.util.List;
 
-/**
- * 会员DAO接口
- * @auther
- */
+
 public interface VIPDAO {
     /**
      * 增加会员
